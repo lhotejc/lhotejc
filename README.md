@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lhotejc
 - 👀 I’m interested in programming & mathematics... to code some mathematical exercices for student is my passion
 - 🌱 I’m currently learning javascript & typescript + CSS + Latex
-- 💞️ I’m looking to collaborate on Mathalea/mathalea
+- 💞️ I’m looking to collaborate on Mathalea/mathalea and cortex-js/computeengine
 - 📫 How to reach me lhotejc@gmail.com
 - 
 <!---
